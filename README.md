@@ -1,1 +1,1 @@
-https://sashankrayapudi.github.io/
+https://sashankrayapudi.github.io/algorithmic-art
